@@ -66,7 +66,8 @@
 h1 {
   position: absolute;
   color: white;
-  top: 520px;
-  left: 750px;
+  top: 525px;
+  left: 753px;
   font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
 }

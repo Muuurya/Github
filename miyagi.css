@@ -63,3 +63,10 @@
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
+h1 {
+  position: absolute;
+  color: white;
+  top: 520px;
+  left: 750px;
+  font-size: 50px;
+}
